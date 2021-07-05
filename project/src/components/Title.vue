@@ -12,10 +12,11 @@ export default {
 </script>
 
 
-<style lang="scss">
+<style scoped>
 #app {
   font-size: 20px;
   text-align: center;
   margin-top: 60px;
+  color: red;
 }
 </style>
