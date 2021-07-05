@@ -1,6 +1,6 @@
 <template>
     <h1>
-        La mia prima app con CLi!
+        La mia prima app con CLI!
     </h1>
 </template>
 
